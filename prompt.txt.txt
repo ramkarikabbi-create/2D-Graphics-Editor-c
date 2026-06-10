@@ -1,0 +1,43 @@
+I am creating a simple 2D Graphics Editor project using Python and Tkinter (or any GUI framework).
+For Day 1, help me build the basic structure of the application.
+Requirements:
+Create a blank drawing canvas in the center window.
+Add a main menu bar with options like:
+File
+Shapes
+Edit
+Help
+Add basic buttons/menu items for drawing shapes such as:
+Line
+Rectangle
+Circle
+The canvas should allow future expansion for editing shapes.
+Organize the code properly using functions and comments.
+Explain the logic step-by-step like a discussion between developer and AI assistant.
+Also provide:
+Sample code structure
+GUI layout idea
+Future improvement suggestions for Day 2 and Day 3.
+Day 2 – Add Delete and Modify Shape Features
+AI Discussion Prompt:
+Continue the 2D Graphics Editor project from Day 1.
+Now I want to implement editing features for shapes drawn on the canvas.
+Requirements:
+Allow users to select a shape on the canvas.
+Add a Delete feature to remove selected shapes.
+Add a Modify/Edit feature to:
+Move shapes
+Resize shapes
+Change shape color
+Maintain proper object handling for multiple shapes.
+Use event handling like mouse click and drag.
+Explain how shape IDs or object references work internally.
+Keep the UI simple and beginner friendly.
+Also explain:
+Challenges faced while implementing delete and modify
+Best data structure for storing shapes
+How undo/redo can be added later
+Finally generate:
+Updated code snippets
+Step-by-step explanation
+Commit message suggestions for GitHub
